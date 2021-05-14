@@ -1,7 +1,7 @@
 # contact
 
-- mansoncoding@gmail.com
-- https://velog.io/@juncode
+- EMail: mansoncoding@gmail.com
+- Blog: https://velog.io/@juncode
 
 ## 저는요 
 
